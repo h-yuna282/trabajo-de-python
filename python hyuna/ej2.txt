@@ -1,0 +1,7 @@
+Y=int(input("Digite un rango "))
+suma=0
+
+for x in range(Y):
+    suma=suma+x
+    
+print(suma)
